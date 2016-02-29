@@ -1,2 +1,2 @@
-# PSYCH613
-RMarkdown files - Advanced Statistical Methods Answer Keys
+# PS1 Answer Key for "Advanced Statistical Methods"
+RMarkdown file
